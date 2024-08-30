@@ -1,3 +1,7 @@
+void setup() 
+{  
+size(750,750);
+}
 void draw () { 
 noStroke();
 fill(255);
